@@ -1,0 +1,13 @@
+/* ChatList.module.css */
+.chatList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .chatList li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #2246d4;
+    border-radius: 5px;
+  }
+  

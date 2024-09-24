@@ -1,0 +1,37 @@
+.senderBubble {
+    background-color: #d1f7c4;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    text-align: right;
+    max-width: 60%;
+    margin-left: auto;
+  }
+  
+  .receiverBubble {
+    background-color: #1562d5;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    text-align: left;
+    max-width: 60%;
+  }
+  
+  .messageContent span {
+    font-weight: bold;
+    display: block;
+    color: #0b0b0c;
+  }
+  
+  .messageContent p {
+    margin: 5px 0;
+    color: #3a1fd5;
+  }
+  
+  .timestamp {
+    font-size: 0.75em;
+    color: #3a1fd5;
+    display: block;
+    margin-top: 5px;
+  }
+  
