@@ -14,10 +14,10 @@ pnpm dev
 bun dev
 ```
 ## Requirements:
-Next.js: Use the App Router to structure your pages and components.
-UI Design: Create a messaging interface that resembles Telegram in terms of layout and design.
-Components: Include key elements like chat lists, individual chat windows, message bubbles, input fields, etc.
-No Real Data: Use mock data to populate the UI – no need for back-end integration.
+- Next.js: Use the App Router to structure your pages and components.
+- UI Design: Create a messaging interface that resembles Telegram in terms of layout and design.
+- Components: Include key elements like chat lists, individual chat windows, message bubbles, input fields, etc.
+- No Real Data: Use mock data to populate the UI – no need for back-end integration.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
